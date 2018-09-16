@@ -1,0 +1,8 @@
+{
+    "Slack": {
+        "api_token":""
+    },
+    "PandoraBots": {
+        "app_id": ""
+    }
+}
